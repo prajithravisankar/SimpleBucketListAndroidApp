@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Bucket List App</string>
+    <string-array name="places_names">
+        <item>Banff National Park</item>
+        <item>Disney World</item>
+        <item>Ari Atoll Resort, Maldives</item>
+        <item>Niagra Falls</item>
+        <item>Palouse Washington</item>
+        <item>Santorini Greece</item>
+        <item>Skagit Valley Tulip Field</item>
+        <item>Soneva Jani, Maldives</item>
+        <item>Switzerland</item>
+        <item>Vik Beach, Iceland</item>
+        <item>Black sand Beach, Iceland</item>
+    </string-array>
+
+    <string-array name="places_description">
+        <item>Majestic mountains and turquoise lakes in Alberta, Canada.</item>
+        <item>Where magic and imagination come to life in Florida, USA.</item>
+        <item>Luxurious overwater villas in the heart of the Maldives.</item>
+        <item>Thundering waterfalls on the border of Canada and the USA.</item>
+        <item>Rolling hills of vibrant green in Washington, USA.</item>
+        <item>Whitewashed beauty and unforgettable sunsets in Santorini, Greece.</item>
+        <item>Endless fields of vibrant tulips in Washington, USA.</item>
+        <item>Indulgence and serenity in the ultimate Maldivian escape.</item>
+        <item>Picturesque landscapes of snow-capped peaks in Switzerland.</item>
+        <item>Dramatic black sand beaches set against rugged cliffs in Iceland.</item>
+        <item>Stunning, dark, black sand beach with Harry potter vibe in Iceland</item>
+    </string-array>
 </resources>
