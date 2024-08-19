@@ -16,6 +16,7 @@
 
         <TextView
             android:id="@+id/text_view_app_name"
+            android:textColor="#49243E"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
@@ -52,6 +53,7 @@
             android:layout_gravity="top"
             android:paddingLeft="50dp"
             android:text="Places to visit"
+            android:textColor="#704264"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
@@ -79,6 +81,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="top"
             android:paddingLeft="50dp"
+            android:textColor="#704264"
             android:text="Activities to do"
             android:textStyle="bold" />
 
@@ -106,6 +109,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="top"
             android:paddingLeft="50dp"
+            android:textColor="#704264"
             android:text="Health and Fitness"
             android:textStyle="bold" />
 

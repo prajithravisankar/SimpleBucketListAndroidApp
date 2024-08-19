@@ -13,6 +13,9 @@
         android:theme="@style/Theme.BucketListApp"
         tools:targetApi="31">
         <activity
+            android:name=".ActivitiesToDoActivity"
+            android:exported="false" />
+        <activity
             android:name=".HealthFitnessActivity"
             android:exported="false" />
         <activity
